@@ -5,3 +5,5 @@ Este repositório contém a modelagem funcional do projeto IAtify utilizando a f
 Diagrama de Caso de Uso
 
 Este diagrama descreve as funcionalidades principais, como a autenticação PKCE e o processamento de comandos de voz via Gemini.
+
+![Diagrama IAtify](plantuml-image.png)
